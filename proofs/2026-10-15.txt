@@ -1,0 +1,1 @@
+copybot paper run 3 journal digest for 2026-10-15 (UTC): last_seq=239 entries=51 hash=de0fbc9d7013d8ee0c2c2a893e10af48323586160e42b082cf4772e62eb2f8e8
